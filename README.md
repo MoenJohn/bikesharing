@@ -3,7 +3,7 @@ A dashboard of bike sharing data using Tableau
 
 
 
-## Overview of the statistical analysis:
+## Overview:
 
 The purpose of this analysis is to help build a case that a bike-sharing program may be successful in Des Moines. Using Tableau Public and a real Citibike dataset we'll look into the average length of trips, number of bike trips by hour and gender, and by days of the week. All of this information will be integrated into an interactive dashboard linked to below. By looking at this data, investors will have a better idea of what kind of business they can expect and how to structure the most successful business model possible.
 
